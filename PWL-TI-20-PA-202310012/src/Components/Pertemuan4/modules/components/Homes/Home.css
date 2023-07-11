@@ -1,0 +1,104 @@
+.card {
+    background-color: rgb(237, 220, 220);
+}
+
+.pawal {
+    height: 500px;
+    padding: 20px;
+    padding-top: 50px;
+}
+
+.semua {
+    margin-left: 12.5%;
+}
+
+.pct1 {
+    height: 70%;
+}
+
+.row {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.isi {
+    margin-top: 25px;
+    width: 50%;
+    text-align: justify;
+    margin-left: 23.5%;
+}
+
+.Contact {
+    margin-top: 10px;
+    width: 50%;
+    text-align: justify;
+    margin-left: 23.5%;
+    margin-bottom: 10px;
+}
+
+
+.ini {
+    margin-top: 105px;
+
+}
+
+.pct2 {
+    height: 90%;
+    width: 22%;
+    margin-right: 2rem;
+}
+
+.pawall {
+    height: 500px;
+    padding: 20px;
+    padding-top: 50px;
+}
+
+
+.kotak{
+    width: 7%;
+    background-color: rgba(240, 248, 255, 0);
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.k1{
+    background-color: #1f242d;
+}
+
+.pcontact{
+    margin-left:30%;
+    margin-top: 3%;
+}
+
+
+/* .kotak1 {
+    border: none;
+    background-color: rgba(255, 222, 173, 0);
+}
+
+.kotak2 {
+    background-color: rgba(240, 248, 255, 0);
+}
+
+.rounded{
+    border-color: white;
+    border: none;
+    border-style: none;
+
+}
+
+.pgbr{
+    width: 100px;
+    text-decoration: none;
+}
+
+.pcontact{
+    width: 50px;
+}
+
+.bol{
+    width: 30%;
+} */
+/* .row{
+    width: 30px;
+} */

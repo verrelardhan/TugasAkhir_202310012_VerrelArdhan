@@ -1,0 +1,10 @@
+.inibg{
+    background-color: #212A3E;
+    color: white;
+}
+
+.btnall:hover{
+    background-color: rgb(87, 87, 87);
+    border-radius: 20px;
+}
+
